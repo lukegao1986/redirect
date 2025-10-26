@@ -6,7 +6,12 @@
       "permanent": true
     },
     {
-      "source": "chem",
+      "source": "/chem",
+      "destination": "https://lukesensei.feishu.cn/wiki/AklhwOpKeiAGd0kAx7icpQx3nWf?fromScene=spaceOverview",
+      "permanent": true
+    },
+    {
+      "source": "1",
       "destination": "https://lukesensei.feishu.cn/wiki/AklhwOpKeiAGd0kAx7icpQx3nWf?fromScene=spaceOverview",
       "permanent": true
     }
